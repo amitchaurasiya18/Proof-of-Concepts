@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio Projects (Training)\\ProofOfThisKeyword\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A44838ED-9C9E-4F4E-8275-8644A01D3D15}|ProofOfThisKeyword.csproj|d:\\visual studio projects (training)\\proofofthiskeyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44838ED-9C9E-4F4E-8275-8644A01D3D15}|ProofOfThisKeyword.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44838ED-9C9E-4F4E-8275-8644A01D3D15}|ProofOfThisKeyword.csproj|d:\\visual studio projects (training)\\proofofthiskeyword\\thiskeyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44838ED-9C9E-4F4E-8275-8644A01D3D15}|ProofOfThisKeyword.csproj|solutionrelative:thiskeyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThisKeyword.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects (Training)\\ProofOfThisKeyword\\ThisKeyword.cs",
+              "RelativeDocumentMoniker": "ThisKeyword.cs",
+              "ToolTip": "D:\\Visual Studio Projects (Training)\\ProofOfThisKeyword\\ThisKeyword.cs",
+              "RelativeToolTip": "ThisKeyword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:25:08.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects (Training)\\ProofOfThisKeyword\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Visual Studio Projects (Training)\\ProofOfThisKeyword\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:23:57.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

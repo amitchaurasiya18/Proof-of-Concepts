@@ -1,0 +1,7 @@
+D:\Visual Studio Projects (Training)\ProofOfThisKeyword\bin\Debug\ProofOfThisKeyword.exe.config
+D:\Visual Studio Projects (Training)\ProofOfThisKeyword\bin\Debug\ProofOfThisKeyword.exe
+D:\Visual Studio Projects (Training)\ProofOfThisKeyword\bin\Debug\ProofOfThisKeyword.pdb
+D:\Visual Studio Projects (Training)\ProofOfThisKeyword\obj\Debug\ProofOfThisKeyword.csproj.AssemblyReference.cache
+D:\Visual Studio Projects (Training)\ProofOfThisKeyword\obj\Debug\ProofOfThisKeyword.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects (Training)\ProofOfThisKeyword\obj\Debug\ProofOfThisKeyword.exe
+D:\Visual Studio Projects (Training)\ProofOfThisKeyword\obj\Debug\ProofOfThisKeyword.pdb

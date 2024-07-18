@@ -1,0 +1,7 @@
+D:\Visual Studio Projects (Training)\ProofOfMagicNumber\bin\Debug\ProofOfMagicNumber.exe.config
+D:\Visual Studio Projects (Training)\ProofOfMagicNumber\bin\Debug\ProofOfMagicNumber.exe
+D:\Visual Studio Projects (Training)\ProofOfMagicNumber\bin\Debug\ProofOfMagicNumber.pdb
+D:\Visual Studio Projects (Training)\ProofOfMagicNumber\obj\Debug\ProofOfMagicNumber.csproj.AssemblyReference.cache
+D:\Visual Studio Projects (Training)\ProofOfMagicNumber\obj\Debug\ProofOfMagicNumber.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects (Training)\ProofOfMagicNumber\obj\Debug\ProofOfMagicNumber.exe
+D:\Visual Studio Projects (Training)\ProofOfMagicNumber\obj\Debug\ProofOfMagicNumber.pdb
